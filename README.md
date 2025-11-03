@@ -17,8 +17,8 @@
   💻 I love building modern, responsive, and user-friendly web applications.<br/>
   🎨 Focused on clean UI, smooth UX, and pixel-perfect design.<br/>
   ⚙️ Constantly learning new technologies to expand my skillset.<br/>
-  🌱 Currently exploring the world of backend development and databases.<br/>
-  🚀 My goal is to craft seamless digital experiences that blend design and performance.
+  🌱 Currently exploring backend development and databases.<br/>
+  🚀 My goal is to craft seamless digital experiences that blend design, performance, and creativity.
 </p>
 
 ---
@@ -97,6 +97,17 @@
 
 ---
 
+<h3>🖥️ Check Out My Portfolio</h3>
+<p align="center">
+  <a href="https://ibrahim-folio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-Visit%20My%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <br/>
+  <i>Explore my projects, design style, and development journey!</i>
+</p>
+
+---
+
 <p align="center">
   💬 “Code is like humor. When you have to explain it, it’s bad.” — Cory House  
   <br/>⭐ Star some of my repos if you like my work!
@@ -106,4 +117,6 @@
   <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=IbrahimAwiby&show_icons=true&theme=tokyonight" />
   <br/>
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahimAwiby&layout=compact&theme=tokyonight" />
+  <br/>
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=IbrahimAwiby&theme=tokyonight&hide_border=true" />
 </p>
